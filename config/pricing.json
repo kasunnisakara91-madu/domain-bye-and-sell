@@ -1,0 +1,229 @@
+{
+  "currency": "LKR",
+  "currencySymbol": "Rs.",
+  "usdRate": 305,
+  "domains": [
+    {
+      "tld": ".com",
+      "price": 3850,
+      "originalPrice": 4500,
+      "featured": true,
+      "category": ".com",
+      "description": "The world's gold-standard domain extension for global businesses and enterprises."
+    },
+    {
+      "tld": ".lk",
+      "price": 4200,
+      "originalPrice": 5000,
+      "featured": true,
+      "category": ".lk",
+      "description": "Official Sri Lankan national domain. Boost your local SEO and Sri Lankan brand trust."
+    },
+    {
+      "tld": ".net",
+      "price": 3400,
+      "originalPrice": 3950,
+      "featured": false,
+      "category": ".net",
+      "description": "Essential infrastructure & technology networking TLD with high global authority."
+    },
+    {
+      "tld": ".org",
+      "price": 3600,
+      "originalPrice": 4100,
+      "featured": false,
+      "category": ".org",
+      "description": "Trusted by NGOs, communities, foundations, and educational institutions."
+    },
+    {
+      "tld": ".site",
+      "price": 1450,
+      "originalPrice": 2200,
+      "featured": true,
+      "category": ".site",
+      "description": "Modern, versatile, and ultra-affordable web domain for creative showcases."
+    },
+    {
+      "tld": ".online",
+      "price": 1650,
+      "originalPrice": 2500,
+      "featured": false,
+      "category": ".online",
+      "description": "Establish your dynamic digital presence and showcase your 24/7 web services."
+    },
+    {
+      "tld": ".xyz",
+      "price": 1250,
+      "originalPrice": 1900,
+      "featured": true,
+      "category": ".xyz",
+      "description": "The innovative favorite for Web3 projects, tech founders, and Gen-Z disruptors."
+    },
+    {
+      "tld": "Custom Premium",
+      "price": 9500,
+      "originalPrice": 14000,
+      "featured": true,
+      "category": "Custom Domains",
+      "description": "Short, brandable 2-4 letter and keyword domains with guaranteed instant manual transfer."
+    }
+  ],
+  "apis": [
+    {
+      "id": "api-whatsapp-pro",
+      "name": "WhatsApp Gateway Cloud API",
+      "category": "WhatsApp APIs",
+      "price": 6500,
+      "originalPrice": 8500,
+      "billingCycle": "lifetime / 10k messages",
+      "description": "Official Meta cloud API bridge with webhook dispatcher, template triggers & zero ban risk."
+    },
+    {
+      "id": "api-ai-vision",
+      "name": "Multimodal Neural AI API",
+      "category": "AI APIs",
+      "price": 5200,
+      "originalPrice": 7000,
+      "billingCycle": "50k tokens included",
+      "description": "Ultra low-latency text, voice and computer-vision intelligence backend with structured JSON output."
+    },
+    {
+      "id": "api-movie-stream",
+      "name": "Global Cinema & Movie DB API",
+      "category": "Movie APIs",
+      "price": 3800,
+      "originalPrice": 4900,
+      "billingCycle": "unlimited queries",
+      "description": "Direct streaming link resolver, high-res posters, subtitles, and IMDb/Rotten metadata."
+    },
+    {
+      "id": "api-music-indexer",
+      "name": "High-Fidelity Music Indexer API",
+      "category": "Music APIs",
+      "price": 3200,
+      "originalPrice": 4500,
+      "billingCycle": "unlimited queries",
+      "description": "Lossless audio metadata, synchronized lyrics provider, and multi-platform ID converter."
+    },
+    {
+      "id": "api-social-scraper",
+      "name": "Unified Social Media Intelligence API",
+      "category": "Social Media APIs",
+      "price": 4900,
+      "originalPrice": 6200,
+      "billingCycle": "monthly quota",
+      "description": "Extract trending hashtags, video metrics, follower analytics from Instagram, TikTok & YouTube."
+    },
+    {
+      "id": "api-image-studio",
+      "name": "Generative Image Studio API",
+      "category": "Image APIs",
+      "price": 4200,
+      "originalPrice": 5800,
+      "billingCycle": "500 renders",
+      "description": "Real-time background removal, upscaling, neural face enhancement, and photorealistic generation."
+    },
+    {
+      "id": "api-video-transcoder",
+      "name": "HLS Video Transcoder & CDN API",
+      "category": "Video APIs",
+      "price": 5800,
+      "originalPrice": 7900,
+      "billingCycle": "200GB bandwidth",
+      "description": "Convert MP4 to multi-bitrate HLS (.m3u8), auto-generate thumbnails, and stream at blazing speeds."
+    },
+    {
+      "id": "api-custom-webhook",
+      "name": "Custom Microservice API Gateway",
+      "category": "Custom APIs",
+      "price": 7500,
+      "originalPrice": 9900,
+      "billingCycle": "custom build",
+      "description": "Tailor-made private API endpoint built to your exact payload specs with SLA support."
+    }
+  ],
+  "bots": [
+    {
+      "id": "bot-ecommerce-store",
+      "name": "WhatsApp E-Commerce Shop Bot",
+      "price": 8500,
+      "originalPrice": 12000,
+      "features": [
+        "Interactive product catalog with image menus",
+        "Automated shopping cart & checkout calculator",
+        "Bank receipt verification submission link",
+        "Order tracking by reference ID",
+        "Admin instant dispatch alert"
+      ],
+      "description": "Turn your WhatsApp into a 24/7 revenue powerhouse. Handles product browsing, ordering, and receipt collection automatically."
+    },
+    {
+      "id": "bot-ai-support",
+      "name": "AI Smart Customer Support Bot",
+      "price": 7200,
+      "originalPrice": 9800,
+      "features": [
+        "Understands Sinhala, Tamil & English prompts",
+        "Trained on your business FAQ and price sheet",
+        "Human agent handover trigger",
+        "24/7 instant replies with zero delay",
+        "Lead capture to CSV / Google Sheet"
+      ],
+      "description": "Delight clients with hyper-intelligent instant answers in Sinhala, Tamil, or English with seamless human escalation."
+    },
+    {
+      "id": "bot-appointment-booking",
+      "name": "Salon, Clinic & Service Booking Bot",
+      "price": 6800,
+      "originalPrice": 9000,
+      "features": [
+        "Real-time calendar slot checking",
+        "Appointment confirmation & Google Calendar sync",
+        "Automated reminder 2 hours prior to booking",
+        "Cancellation and rescheduling self-service",
+        "Advance deposit payment verification"
+      ],
+      "description": "Completely eliminates scheduling phone calls. Book clients directly inside their WhatsApp chat with automated reminders."
+    },
+    {
+      "id": "bot-school-tuition",
+      "name": "Tuition Class & Student Portal Bot",
+      "price": 6400,
+      "originalPrice": 8500,
+      "features": [
+        "Student registration by index number",
+        "Monthly class fee bank receipt upload",
+        "Automated Zoom/YouTube lecture link dispatcher",
+        "Exam timetable & marks lookup",
+        "Parent SMS/WhatsApp notification"
+      ],
+      "description": "Specially architected for Sri Lankan tuition masters and institutes. Automates class fee verification and lecture link distribution."
+    },
+    {
+      "id": "bot-lead-generation",
+      "name": "Real Estate & Auto Dealer Lead Bot",
+      "price": 7800,
+      "originalPrice": 10500,
+      "features": [
+        "Interactive questionnaire qualification",
+        "Budget & location preference filtering",
+        "Instant PDF brochure delivery",
+        "Automated WhatsApp notification to sales reps",
+        "CRM webhook integration"
+      ],
+      "description": "Capture high-intent leads from Facebook and Instagram ads directly into WhatsApp and qualify their budget automatically."
+    }
+  ],
+  "bankDetails": {
+    "bankName": "Bank of Ceylon / Commercial Bank",
+    "accountHolder": "DOMAIN SELL (PVT) LTD",
+    "accountNumber": "801294819203",
+    "branch": "Colombo Super Grade / City Office",
+    "notes": "Please include your Customer Username as the bank transfer reference or remarks."
+  },
+  "whatsappConfig": {
+    "adminNumber": "94771234567",
+    "displayNumber": "+94 77 123 4567",
+    "supportHours": "24/7 Online Admin Support"
+  }
+}

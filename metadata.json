@@ -1,0 +1,7 @@
+{
+  "name": "DOMAIN SELL",
+  "description": "Premium Domain, API & WhatsApp Mini Bot Marketplace with Neon Glassmorphism UI, Bank Transfer Verification, and Android Live Wallpaper.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

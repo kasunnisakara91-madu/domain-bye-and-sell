@@ -1,0 +1,23 @@
+{
+  "name": "domain-sell",
+  "version": "1.0.0",
+  "description": "Production-Ready Domain, API & WhatsApp Bot Marketplace with Dark Neon Glassmorphism UI, Bank Transfer Verification, and Android Live Wallpaper",
+  "main": "backend/server.js",
+  "scripts": {
+    "server": "node backend/server.js",
+    "seed": "node backend/seed.js",
+    "dev:backend": "node backend/server.js",
+    "build:frontend": "cd frontend && npm install && npm run build",
+    "start": "node backend/server.js"
+  },
+  "keywords": [
+    "domain-marketplace",
+    "api-store",
+    "whatsapp-bot",
+    "bank-transfer",
+    "android-live-wallpaper",
+    "dark-glassmorphism"
+  ],
+  "author": "DOMAIN SELL",
+  "license": "MIT"
+}
